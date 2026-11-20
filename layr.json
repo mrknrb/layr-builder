@@ -1,16 +1,16 @@
 {
   "id": "builder",
   "name": "Builder",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A pack for making things with Claude: your own plugins, and projects planned as tasks and concepts.",
   "author": "layr",
   "layr": "^0.1",
   "icon": "construction",
   "kind": "app",
   "dependencies": {
-    "claude": "^0.3",
-    "pipeline": "^0.4",
-    "concepts": "^0.2"
+    "claude": ">=0.3.0, <1.0.0",
+    "pipeline": ">=0.4.0, <1.0.0",
+    "concepts": ">=0.2.0, <1.0.0"
   },
   "sessions": [
     {
