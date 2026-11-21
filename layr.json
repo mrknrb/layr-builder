@@ -1,4 +1,5 @@
 {
+  "repository": "https://github.com/mrknrb/layr-builder",
   "id": "builder",
   "name": "Builder",
   "version": "0.2.1",
